@@ -4,7 +4,7 @@ const path = require("path");
 
 const usernames = [
   "aestheticnepaligirls",
-  // Add more usernames as per choice
+  "nepali.girls",
 ];
 
 
