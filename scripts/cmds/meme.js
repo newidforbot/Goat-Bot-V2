@@ -6,6 +6,8 @@ const usernames = [
   "meme_troll_nepal",
   "memenepal",
  "hassan_mimix",
+  "relatablegram_m",
+  "therelatablebalika",
 ];
 
 
