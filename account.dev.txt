@@ -1,1 +1,110 @@
-your mom got a big butt
+[
+    {
+        "key": "dbln",
+        "value": "%7B%22100089100255188%22%3A%22CCbEDkZF%22%2C%22100093894683013%22%3A%22I89ZimjE%22%2C%2261556896005065%22%3A%22xKoqGAfU%22%2C%2261558484603731%22%3A%22EJoreQY6%22%2C%2261551866588510%22%3A%22fmilnIEf%22%2C%2261558783075572%22%3A%22ID0q4ntV%22%2C%2261556673312319%22%3A%22DB0hmA9v%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2024-05-18T04:29:15.573Z",
+        "lastAccessed": "2024-05-18T04:29:15.578Z"
+    },
+    {
+        "key": "sb",
+        "value": "O0oNZqWkKj2VvEee5-zu1h94",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-05-18T04:29:15.578Z",
+        "lastAccessed": "2024-05-18T04:29:15.578Z"
+    },
+    {
+        "key": "datr",
+        "value": "YCtIZmBIg00dTFOPECqJ-FDB",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-05-18T04:29:15.578Z",
+        "lastAccessed": "2024-05-18T04:29:15.578Z"
+    },
+    {
+        "key": "m_pixel_ratio",
+        "value": "2.75",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-05-18T04:29:15.578Z",
+        "lastAccessed": "2024-05-18T04:29:15.578Z"
+    },
+    {
+        "key": "wd",
+        "value": "393x764",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-05-18T04:29:15.578Z",
+        "lastAccessed": "2024-05-18T04:29:15.578Z"
+    },
+    {
+        "key": "fr",
+        "value": "0HMY3WdOukThP5hBL.AWUF77P4WV5F9jgj30JkRZyoI0E.BmSCtg..AAA.0.0.BmSC5r.AWVeCqaI1wM",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-05-18T04:29:15.578Z",
+        "lastAccessed": "2024-05-18T04:29:15.578Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61556673312319",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-05-18T04:29:15.578Z",
+        "lastAccessed": "2024-05-18T04:29:15.578Z"
+    },
+    {
+        "key": "xs",
+        "value": "35%3AwUDAwiOZnPTcSQ%3A2%3A1716006509%3A-1%3A3172",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-05-18T04:29:15.578Z",
+        "lastAccessed": "2024-05-18T04:29:15.578Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_US",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-05-18T04:29:15.578Z",
+        "lastAccessed": "2024-05-18T04:29:15.578Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "101033317%3BT%3A28600108",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-05-18T04:29:15.579Z",
+        "lastAccessed": "2024-05-18T04:29:15.579Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2502%3Btimestamp%3A1716006517",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-05-18T04:29:15.579Z",
+        "lastAccessed": "2024-05-18T04:29:15.579Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B764x393x2.75",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-05-18T04:29:15.579Z",
+        "lastAccessed": "2024-05-18T04:29:15.579Z"
+    }
+]
