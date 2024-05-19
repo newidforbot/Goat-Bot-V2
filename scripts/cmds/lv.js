@@ -33,7 +33,7 @@ module.exports = {
 
     try {
       const username = getRandomUsername();
-      const response = await axios.get(`https://tuk-tuk.onrender.com/kshitiz?username=${username}`);
+      const response = await axios.get(`https://tik-tok-vjh2.onrender.com/kshitiz?username=${username}`);
       const user = response.data.user || "@user_unknown";
       const postData = response.data.posts;
       const selectedUrl = getRandomUrl(postData);
