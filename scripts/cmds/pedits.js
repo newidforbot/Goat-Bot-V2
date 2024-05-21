@@ -11,8 +11,8 @@ const channelLinks = [ // add channel link below from which channel you want to 
 
 module.exports = {
   config: {
-    name: "edits",
-    aliases: ["edits"],
+    name: "pedits",
+    aliases: ["pedit"],
     author: "Vex_Kshitiz",
     version: "1.0",
     cooldowns: 5,
