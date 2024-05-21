@@ -17,13 +17,13 @@ module.exports = {
     shortDescription: "",
     longDescription: "Get random tiktok video from specific users",
     category: "fun",
-    guide: "{p}tuktuk",
+    guide: "{p}lyricalvideo",
   },
 
   onStart: async function ({ api, event, message }) {
     function getRandomUsername() {
 
-      const usernames = ['zoro_lyrics', 'kuson_dgaf', 'san_dip011', 'jasbin.mgrx', 'lyricseditvibe3']; 
+      const usernames = ['zoro_lyrics', 'lyricseditvibe3', 'san_dip011', 'jasbin.mgrx', 'kuson_dgaf']; 
       
       const randomIndex = Math.floor(Math.random() * usernames.length);
       return usernames[randomIndex];
