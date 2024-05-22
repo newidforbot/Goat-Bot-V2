@@ -11,7 +11,7 @@ const channelLinks = [ // add channel link below from which channel you want to 
 
 module.exports = {
   config: {
-    name: "edit",
+    name: "edits",
     aliases: ["ed"], // add 
     author: "Vex_Kshitiz",
     version: "1.0",
