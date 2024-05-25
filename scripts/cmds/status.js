@@ -12,6 +12,11 @@ const usernames = [
   "hearthub.us",
   "deadchuckie",
   "primis_chacha",
+  "theycallme_sandipeyyy",
+  "abiralshresthaa",
+  "anup.10_",
+  "manthan_khatri2205",
+  "washbish65",
 ];
 
 
@@ -22,16 +27,16 @@ const paginationTokens = [
 
 module.exports = {
   config: {
-    name: "lines", 
-    aliases: ["l"],
-    author: "Vex_Kshitiz",
-    version: "1.0",
+    name: "status", 
+    aliases: ["s"],
+    author: "Vex_Kshitiza",
+    version: "199.0",
     cooldowns: 5, 
     role: 0,
     shortDescription: "Get status video from Instagram user",
     longDescription: "Get status video from a specified Instagram user.",
     category: "utility",
-    guide: "{p}instauser",
+    guide: "{p}s",
   },
 
   // dont change anything below if you dont know how it works
