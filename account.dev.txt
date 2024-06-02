@@ -1,21 +1,21 @@
 [
     {
         "key": "dbln",
-        "value": "%7B%22100089873713244%22%3A%22P6oe38Mz%22%2C111133333%2261556673312319%22%3A%22lFhuy56p%22%2C%2261558783075572%22%3A%227I34YGelG3%22%7D",
+        "value": "%7B%22100089873713244%22%3A%22P6oe38Mz%22%2C%2261556673312319%22%3A%22lFhuy56p%22%2C%2261558783075572%22%3A%227IYGelG3%22%7D",
         "domain": "facebook.com",
         "path": "/login/device-based/",
         "hostOnly": false,
-        "creation": "2024-06-02T15:2_£4:21.284Z",
+        "creation": "2024-06-02T15:24:21.284Z",
         "lastAccessed": "2024-06-02T15:24:21.285Z"
     },
     {
         "key": "sb",
-    ££    "value": "PidQZqEzVQDqHvxqy1FIe1Y3",
+        "value": "PidQZqEzVQDqHvxqy1FIe1Y3",
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
         "creation": "2024-06-02T15:24:21.285Z",
-     "#   "lastAccessed": "2024-06-02T15:24:21.285Z"
+        "lastAccessed": "2024-06-02T15:24:21.285Z"
     },
     {
         "key": "datr",
@@ -23,14 +23,14 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "crea£tion": "2024-06-02T1998665:24:21.285Z",
+        "creation": "2024-06-02T15:24:21.285Z",
         "lastAccessed": "2024-06-02T15:24:21.285Z"
     },
     {
-        "key": "(3(3(s_n",
-        "value": "1
-        "domain": "face(_(_book.com",
-        "pa£(£(£(th": "/",
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
         "hostOnly": false,
         "creation": "2024-06-02T15:24:21.285Z",
         "lastAccessed": "2024-06-02T15:24:21.285Z"
